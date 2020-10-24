@@ -1,14 +1,16 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "question": "Why do I have to pay a service fee?",
+    "answer" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus sapiente provident perferendis quibusdam dolorem, eius repellat repudiandae, esse voluptate repellendus animi omnis ipsam amet eaque temporibus, laudantium minima ullam odio."
+  },
+  
+  {
+    "question": "What is the bond for?",
+    "answer" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque aliquam voluptatibus rerum consequatur laborum nisi nostrum quisquam sed architecto, excepturi unde. Enim ut cupiditate officia esse ratione ullam ipsum incidunt?"
+  },
+   
+  {
+    "question": "Do I need a charger with my courtesy phone?",
+    "answer" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis animi ab consequatur, voluptatem quo dicta iste fugiat eius, doloribus mollitia cupiditate aut tempore rerum nemo vero impedit veniam necessitatibus ea."
+  }   
+]
